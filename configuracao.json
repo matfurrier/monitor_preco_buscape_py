@@ -1,0 +1,11 @@
+{ 
+    "itens" :  [ 
+        {"nome":  "monitor gamer" ,  "preco_alvo" :  500.00, "ordenar_consulta" : "prod_items_sort_by_price_asc"}, 
+        {"nome":  "tgc12 thunderx3" ,  "preco_alvo" :  800.00, "ordenar_consulta" : "prod_items"} 
+    ] ,
+    "notificacao" : [
+                "email-para-notificar"
+   ],
+   "email": {"usuario": "usuario", "senha": "senha"}
+
+}
